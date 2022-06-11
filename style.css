@@ -35,7 +35,7 @@ body{
     cursor: pointer;
 }
 button{
-    position: relative;
+    position: fixed
     display: inline-block;
     cursor: pointer;
     outline: none;
